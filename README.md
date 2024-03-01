@@ -31,7 +31,7 @@ We have created and collated a series of guides, articles, and learning paths fo
 
 ## Where to start?
 
-That depends on you! If you are looking for an overview of the internet, what it is, how it works, and a high-level view of the associated technologies, you might want to start [here]().
+That depends on you! If you are looking for an overview of the internet, what it is, how it works, and a high-level view of the associated technologies, you might want to start with the [introduction to the internet and associated technologies](https://github.com/bjssacademy/internet-and-technologies).
 
 If you've not really peeked behind the scenes of *how* files are organised on your device, then maybe take a look at a brief introduction to [the Windows file system](https://github.com/bjssacademy/windows-filesystem-and-explorer).
 
