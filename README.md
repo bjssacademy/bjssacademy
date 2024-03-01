@@ -39,7 +39,11 @@ Do you know how to compress multiple files so they are contained in one file, or
 
 ## I'm an absolute beginner and know nothing about programming
 
-You'll probably want to explore our [fundamental course](https://github.com/bjssacademy/fundamentals1/tree/main), where we'll explain everything from what a variable is, to the use of loops and arrays.
+We've got some fundamentals covered [here](https://github.com/bjssacademy/fundamentals-general) that explain how to use the command line, and some basic programming concepts like variables and loops.
+
+If you want to dive in to learning without exploring these first, we have a [fundamental course](https://github.com/bjssacademy/fundamentals1/tree/main), where we'll explain everything from what a variable is, to the use of loops and arrays whilst using the programming language Go. Please note, these repositories are currently private - ask for access.
+
+Once you've go the basics of Go down and have started using structs and methods, we want to look at more class-based languages to examine Object Oriented Programming using C#. Fortunately, there's a handy [C# from Go course](https://github.com/bjssacademy/class-based-from-go) which will take you through everything from setting up Visual Studio and making your first objects!
 
 ## I am a novice, but I know at least one programming language
 
