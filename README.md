@@ -53,4 +53,4 @@ If you know you Java from your JavaScript, then maybe you want to explore [the G
 
 Maybe you're already using Go and want some challenges? We've got you covered with [Batttleships](https://github.com/bjssacademy/gobatttleships) and [time entries](https://github.com/bjssacademy/timeentries).
 
-Perhaps you've done a fair bit with JavaScript but have heard lots about TypeScript and wondering what the benefits are, our hand [TypeScript Primer](https://github.com/bjssacademy/fundamentals-ts) is probably a good starting point. We'll cover the basics in a whistlestop tour of the benefits of TS, and get you installed and setup to write using TS.
+Perhaps you've done a fair bit with JavaScript but have heard lots about TypeScript and wondering what the benefits are, our handy [TypeScript Primer](https://github.com/bjssacademy/fundamentals-ts) is probably a good starting point. We'll cover the basics in a whistlestop tour of the benefits of TS, and get you installed and setup to write using TS.
