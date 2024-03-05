@@ -52,3 +52,5 @@ Once you've go the basics of Go down and have started using structs and methods,
 If you know you Java from your JavaScript, then maybe you want to explore [the Go programming language](https://github.com/bjssacademy/goinaday). Covering the basics of the language to the more powerful like goroutines.
 
 Maybe you're already using Go and want some challenges? We've got you covered with [Batttleships](https://github.com/bjssacademy/gobatttleships) and [time entries](https://github.com/bjssacademy/timeentries).
+
+Perhaps you've done a fair bit with JavaScript but have heard lots about TypeScript and wondering what the benefits are, our hand [TypeScript Primer](https://github.com/bjssacademy/fundamentals-ts) is probably a good starting point. We'll cover the basics in a whistlestop tour of the benefits of TS, and get you installed and setup to write using TS.
