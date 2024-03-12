@@ -39,7 +39,7 @@ Do you know how to compress multiple files so they are contained in one file, or
 
 ## I'm an absolute beginner and know nothing about programming
 
-We've got some fundamentals covered [here](https://github.com/bjssacademy/fundamentals-general) that explain how to use the command line, and some basic programming concepts like variables and loops.
+We've got some fundamentals covered [here](https://github.com/bjssacademy/fundamentals-general) that explain how to use the [command line](https://github.com/bjssacademy/fundamentals-general/blob/main/commandlinebasics.md), and some basic programming concepts like [variables](https://github.com/bjssacademy/fundamentals-general/blob/main/variables.md), [types](https://github.com/bjssacademy/fundamentals-general/blob/main/types.md), [control flow](https://github.com/bjssacademy/fundamentals-general/blob/main/control.md) and [loops](https://github.com/bjssacademy/fundamentals-general/blob/main/iteration.md), as well as things like functions and [variable scope](https://github.com/bjssacademy/fundamentals-general/blob/main/scope.md).
 
 If you understand the tech jargon and want to create your own web page, then you'll want to know about [HTML](https://github.com/bjssacademy/fundamentals-html) for the basic structure, CSS to make it look better, and [Javascript](https://github.com/bjssacademy/fundamentals-js) to make your page do things! These guides won't make you an expert, but they will get you up and running with the bare bones knowledge!
 
@@ -48,6 +48,8 @@ If you want to dive in to learning without exploring these first, we have a [fun
 Once you've go the basics of Go down and have started using structs and methods, we want to look at more class-based languages to examine Object Oriented Programming using C#. Fortunately, there's a handy [C# from Go course](https://github.com/bjssacademy/class-based-from-go) which will take you through everything from setting up Visual Studio and making your first objects!
 
 ## I am a novice, but I know at least one programming language
+
+Well done! Now you've mastered the basics of telling a computer what to do, you'll want to make sure your code can be read and used easily by other developers and colleagues. Read our [guide to clean code](https://github.com/bjssacademy/fundamentals-clean-code/tree/main) on taking the next step in your journey, from naming things well to being able to extract code blocks into their own methods and removing deeply-nested If statements.
 
 If you know you Java from your JavaScript, then maybe you want to explore [the Go programming language](https://github.com/bjssacademy/goinaday). Covering the basics of the language to the more powerful like goroutines.
 
