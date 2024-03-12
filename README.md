@@ -43,7 +43,7 @@ We've got some fundamentals covered [here](https://github.com/bjssacademy/fundam
 
 If you understand the tech jargon and want to create your own web page, then you'll want to know about [HTML](https://github.com/bjssacademy/fundamentals-html) for the basic structure, CSS to make it look better, and [Javascript](https://github.com/bjssacademy/fundamentals-js) to make your page do things! These guides won't make you an expert, but they will get you up and running with the bare bones knowledge!
 
-If you want to dive in to learning without exploring these first, we have a [fundamental course](https://github.com/bjssacademy/fundamentals1/tree/main), where we'll explain everything from what a variable is, to the use of loops and arrays, functions, structs, and methods whilst using the programming language Go. Please note, these repositories are currently private - ask for access.
+If you want to dive in to learning without exploring these first, we have a [fundamentals course](https://github.com/bjssacademy/fundamentals1) in [two parts](https://github.com/bjssacademy/fundamentals2), where we'll explain everything from what a variable is, to the use of loops and arrays, functions, structs, and methods whilst using the programming language Go, and covers [Test Driven Development](https://github.com/bjssacademy/advanced-tdd). **Please note, these repositories are currently private - ask for access**.
 
 Once you've go the basics of Go down and have started using structs and methods, we want to look at more class-based languages to examine Object Oriented Programming using C#. Fortunately, there's a handy [C# from Go course](https://github.com/bjssacademy/class-based-from-go) which will take you through everything from setting up Visual Studio and making your first objects!
 
@@ -53,6 +53,6 @@ Well done! Now you've mastered the basics of telling a computer what to do, you'
 
 If you know you Java from your JavaScript, then maybe you want to explore [the Go programming language](https://github.com/bjssacademy/goinaday). Covering the basics of the language to the more powerful like goroutines.
 
-Maybe you're already using Go and want some challenges? We've got you covered with [Batttleships](https://github.com/bjssacademy/gobatttleships) and [time entries](https://github.com/bjssacademy/timeentries).
+Maybe you're already using Go and want some challenges? We've got you covered with [Batttleships](https://github.com/bjssacademy/gobatttleships) and [time entries](https://github.com/bjssacademy/timeentries). The battleships challenge also forms part of our Advanced TDD course.
 
 Perhaps you've done a fair bit with JavaScript but have heard lots about TypeScript and wondering what the benefits are, our handy [TypeScript Primer](https://github.com/bjssacademy/fundamentals-ts) is probably a good starting point. We'll cover the basics in a whistlestop tour of the benefits of TS, and get you installed and setup to write using TS.
