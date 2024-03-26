@@ -51,7 +51,7 @@ Once you've go the basics of Go down and have started using structs and methods,
 
 Well done! Now you've mastered the basics of telling a computer what to do, you'll want to make sure your code can be read and used easily by other developers and colleagues. Read our [guide to clean code](https://github.com/bjssacademy/fundamentals-clean-code/tree/main) on taking the next step in your journey, from naming things well to being able to extract code blocks into their own methods and removing deeply-nested If statements.
 
-If you know you Java from your JavaScript, then maybe you want to explore [the Go programming language](https://github.com/bjssacademy/goinaday). Covering the basics of the language to the more powerful like goroutines.
+If you know you Java from your JavaScript, then maybe you want to explore [the Go programming language](https://github.com/bjssacademy/goinaday). Covering the basics of the language to the more powerful like goroutines. Or maybe you just want to [build your own API and perform CRUD operations on a database](https://github.com/bjssacademy/go-api-and-db/blob/main/readme.md) with minimal external packages?
 
 Maybe you're already using Go and want some challenges? We've got you covered with [Batttleships](https://github.com/bjssacademy/gobatttleships) and [time entries](https://github.com/bjssacademy/timeentries). The battleships challenge also forms part of our Advanced TDD course.
 
