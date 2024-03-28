@@ -47,6 +47,12 @@ If you want to dive in to learning without exploring these first, we have a [fun
 
 Once you've go the basics of Go down and have started using structs and methods, we want to look at more class-based languages to examine Object Oriented Programming using C#. Fortunately, there's a handy [C# from Go course](https://github.com/bjssacademy/class-based-from-go) which will take you through everything from setting up Visual Studio and making your first objects!
 
+## How do we store data, and what are the options?
+
+You can take a look at our guide on the various [types of databases available, which also starts you off using PostgreSQL and SQL](https://github.com/bjssacademy/fundamentals-sql/tree/main) commands to add and remove things from a database. Vital if you are going to want to ever store data when writing the next killer app.
+
+If you're okay with the concept of databases and tables and just want a quick introduction to how to Create, Read, Update, and Delete (CRUD operations), then skip to the [SQL basics](https://github.com/bjssacademy/fundamentals-sql/tree/main?tab=readme-ov-file#sql-basics) section.
+
 ## I am a novice, but I know at least one programming language
 
 Well done! Now you've mastered the basics of telling a computer what to do, you'll want to make sure your code can be read and used easily by other developers and colleagues. Read our [guide to clean code](https://github.com/bjssacademy/fundamentals-clean-code/tree/main) on taking the next step in your journey, from naming things well to being able to extract code blocks into their own methods and removing deeply-nested If statements.
