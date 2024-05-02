@@ -61,4 +61,6 @@ If you know you Java from your JavaScript, then maybe you want to explore [the G
 
 Maybe you're already using Go and want some challenges? We've got you covered with [Batttleships](https://github.com/bjssacademy/gobatttleships) and [time entries](https://github.com/bjssacademy/timeentries). The battleships challenge also forms part of our Advanced TDD course.
 
+Of course, you may have heard of React, and if you've got the basics of HTML, CSS and JavaScript down, then our [React Basics](https://github.com/bjssacademy/react-basics) will get you up and running using Vite as the build tool. Along they way we'll talk about components, properties and state management!
+
 Perhaps you've done a fair bit with JavaScript but have heard lots about TypeScript and wondering what the benefits are, our handy [TypeScript Primer](https://github.com/bjssacademy/fundamentals-ts) is probably a good starting point. We'll cover the basics in a whistlestop tour of the benefits of TS, and get you installed and setup to write using TS.
