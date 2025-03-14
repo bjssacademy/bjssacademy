@@ -67,7 +67,7 @@ Perhaps you've done a fair bit with JavaScript but have heard lots about TypeScr
 
 ## I'm a Tester
 
-Great stuff. How about learning how to [automate your API testing using C#](https://github.com/bjssacademy/beginnning-api-automation-csharp)? Or matbe you are a TypeScript fiends, why not have a look at [SuperTest & Clean Coding](https://github.com/bjssacademy/supertest-clean-code-ts).
+Great stuff. How about learning how to [automate your API testing using C#](https://github.com/bjssacademy/beginnning-api-automation-csharp)? Or maybe you are a TypeScript fiend, why not have a look at [SuperTest & Clean Coding](https://github.com/bjssacademy/supertest-clean-code-ts).
 
 How about [builders and factories](https://github.com/bjssacademy/builder-and-factory-for-testers) - which shows you how you can take your messy, spaghetti code, and make it more maintainable and flexible.
 
