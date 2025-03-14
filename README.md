@@ -65,6 +65,12 @@ Of course, you may have heard of React, and if you've got the basics of HTML, CS
 
 Perhaps you've done a fair bit with JavaScript but have heard lots about TypeScript and wondering what the benefits are, our handy [TypeScript Primer](https://github.com/bjssacademy/fundamentals-ts) is probably a good starting point. We'll cover the basics in a whistlestop tour of the benefits of TS, and get you installed and setup to write using TS.
 
-## Date Engineering
+## I'm a Tester
+
+Great stuff. How about learning how to [automate your API testing using C#](https://github.com/bjssacademy/beginnning-api-automation-csharp)? Or matbe you are a TypeScript fiends, why not have a look at [SuperTest & Clean Coding](https://github.com/bjssacademy/supertest-clean-code-ts).
+
+How about [builders and factories](https://github.com/bjssacademy/builder-and-factory-for-testers) - which shows you how you can take your messy, spaghetti code, and make it more maintainable and flexible.
+
+## Data Engineering
 
 We're only just starting out on this, but our [Data Engineering Fundamentals](https://github.com/bjssacademy/data-eng-fundamentals) is a good start. We'll be adding to this with more about streaming using Spark, Airflow and Kafka.
